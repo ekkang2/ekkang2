@@ -1,45 +1,86 @@
-<h1 align="center">프로젝트 이름</h1>
-<p align="center">
-    백엔드 개발자: <strong>[당신의 이름]</strong>
-</p>
+<div align="center">
 
-## 프로젝트 개요
-<p>이 프로젝트는 <strong>[프로젝트 설명]</strong>을 목표로 개발되었습니다. 주요 기능은 다음과 같습니다:</p>
-<ul>
-    <li>기능 1</li>
-    <li>기능 2</li>
-    <li>기능 3</li>
-</ul>
-
-## 기술 스택
-<p>이 프로젝트는 다음 기술 스택을 사용합니다:</p>
-<ul>
-    <li>Java</li>
-    <li>Spring Boot</li>
-    <li>JPA</li>
-    <li>Thymeleaf</li>
-    <li>MySQL</li>
-</ul>
-
-## 설치 및 실행
-<p>다음 명령을 사용하여 프로젝트를 실행할 수 있습니다:</p>
-<pre>
-<code>git clone https://github.com/your-repository.git
-cd your-project
-./gradlew bootRun</code>
-</pre>
-
-## API 문서
-<p>API 문서는 <a href="https://your-api-docs.com" target="_blank">여기</a>에서 확인할 수 있습니다.</p>
-
-## 기여 방법
-<p>이 프로젝트에 기여하려면 다음 절차를 따르세요:</p>
-<ul>
-    <li>이슈를 생성하거나 기존 이슈를 확인하세요.</li>
-    <li>새로운 브랜치를 생성하여 작업하세요: <code>git checkout -b feature-name</code></li>
-    <li>변경 사항을 푸시하고 풀 리퀘스트를 생성하세요.</li>
-</ul>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=5cb3f9&height=250&section=header&text=💻%20SuBin's%20Profile%20💻&fontSize=70&fontAlign=50&fontColor=000000)
 
 ---
 
-<p align="center">© 2024 [당신의 이름]. All rights reserved.</p>
+### 🚀 부족함을 채우며 성장하는 개발자! 🚀  
+늘 부족함을 찾아가며 한 걸음씩 채워나가는 <br> 개발자 강은경입니다. 🌟
+
+## 💡 Blog  
+배움을 기록하고 있습니다 <br>
+📖 [EunKyeong's 기술 블로그](https://ekkkang.tistory.com/)  
+
+---
+
+### 📚 Tech Stack
+#### ⚡ Platforms & Languages ⚡
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
+	<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=java&logoColor=white" alt="JSP">
+	<img src="https://img.shields.io/badge/Thymeleaf-005F99?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React">
+	<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" alt="JSON">
+	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black" alt="Tomcat">
+	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white" alt="Eclipse">
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring">
+	<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" alt="Spring Security">
+	<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MyBatis&logoColor=white" alt="MyBatis">
+	<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" alt="Hibernate">
+	<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white" alt="Maven">
+	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
+	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="JPA">
+	
+---  
+</div>
+
+### 🔨 Tools I Use
+
+<div>
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+
+---
+
+### 🌟 GitHub Stats
+
+<div align="center">
+  
+![SooBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin3578&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subin3578&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+### 📅 Projects Overview
+
+#### 💻 Project Timeline
+| **작업 기한**        | **프로젝트 명**                     | **이동**  |
+|-----------------|-------------------------------|-------|
+| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578) |
+| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
+
+---
+
+### 🎯 현재 작업 중인 내용:
+- 🌱 Spring Boot를 활용한 백엔드 기술 향상
+- 🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축
+- 📱 Flutter 학습중 
+
+---
+
+### 📫 How to reach me:
+- **Email**: ghkdtnqls95@naver.com
+---
+
+</div>
