@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=5cb3f9&height=250&section=header&text=💻%20SuBin's%20Profile%20💻&fontSize=70&fontAlign=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20EunKyeong's%20Profile%20&fontSize=70&fontAlign=50&fontColor=000000)
 
 ---
 
 ### 🚀 부족함을 채우며 성장하는 개발자! 🚀  
-늘 부족함을 찾아가며 한 걸음씩 채워나가는 <br> 개발자 강은경입니다. 🌟
+늘 부족함을 찾아가며 한 걸음씩 채워나가는 <br> 개발자 <strong>강은경</strong>입니다. 🌟
 
 ## 💡 Blog  
 배움을 기록하고 있습니다 <br>
@@ -54,8 +54,8 @@
 
 <div align="center">
   
-![SooBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin3578&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subin3578&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![EunKyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekkang2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekkang2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -66,9 +66,8 @@
 #### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
-| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578) |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
+| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/ekkang2/Antwork) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/ekkang2/LotteOn) |
 
 ---
 
@@ -80,7 +79,7 @@
 ---
 
 ### 📫 How to reach me:
-- **Email**: ghkdtnqls95@naver.com
+- **Email**: rkddmsrud27@gmail.com
 ---
 
 </div>
