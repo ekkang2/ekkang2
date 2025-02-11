@@ -67,7 +67,7 @@
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
 | 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/ekkang2/Antwork) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/ekkang2/LotteOn](https://github.com/ekkang2/TeamProject-LotteOn4)) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/ekkang2/TeamProject-LotteOn4) |
 
 ---
 
