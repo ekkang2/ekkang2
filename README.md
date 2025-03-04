@@ -7,14 +7,9 @@
 ### 🚀 부족함을 채우며 성장하는 개발자! 🚀  
 늘 부족함을 찾아가며 한 걸음씩 채워나가는 <br> 개발자 <strong>강은경</strong>입니다. 🌟
 
-## 💡 Blog  
-배움을 기록하고 있습니다 <br>
-📖 [EunKyeong's 기술 블로그](https://ekkkang.tistory.com/)  
-
----
-
+<div align="left">
   <h2>🛠 사용 기술</h2>
-
+</div>
  <div style="text-align: left;">
     <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -36,7 +31,9 @@
           </div>
     </div>
 </br>
+<div align="left">
 <h2>🔧 개발 도구</h2>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-177cda?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -47,9 +44,9 @@
   <img src="https://img.shields.io/badge/Android%20Studio-30bd88?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
 
----
-
+<div align="left">
 <h2>📊 GitHub 통계</h2>
+</div>
 <div align="center" style="margin: 30px 0;">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ekkang2&custom_title=강은경%27s%20Github%20Stats&bg_color=180,000000,&title_color=000000&text_color=000000" />
@@ -57,24 +54,24 @@
   </div>
 </div>
 
----
-
+<div align="left">
 <h2>📅 프로젝트 </h2>
+</div>
 <div align="center">
   
 | **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 진행중 | [shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/shelfy_team_project) | [▶️](https://github.com/ekkang2/shelfy_team_project) |
-| 25.01.20 ~ 진행중 | [shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/backend_shelfy_team_project) | [▶️](https://github.com/ekkang2/backend_shelfy_team_project) |
+| 25.01.20 ~ 진행중 | [Shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/shelfy_team_project) | [▶️](https://github.com/ekkang2/shelfy_team_project) |
+| 25.01.20 ~ 진행중 | [Shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/backend_shelfy_team_project) | [▶️](https://github.com/ekkang2/backend_shelfy_team_project) |
 | 24.11.16 ~ 24.12.26 | [Antwork] 그룹웨어 프로젝트 | Java / React / SpringBoot / JPA | 칸반보드 프로젝트 | [🔗](https://github.com/ekkang2/Antwork) | [▶️](https://www.youtube.com/watch?v=BTOL7Ycmewo) |
 | 24.10.18 ~ 24.11.15 | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA | 회원 | [🔗](https://github.com/ekkang2/TeamProject-LotteOn4) | [▶️](https://www.youtube.com/watch?v=BTOL7Ycmewo) |
 
 
 </div>
 
-
+<div align="left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 기술 역량 </h2> 
-
+</div>
 <h4 align="left">🌱 Spring Boot 기반 RESTFul API 설계</h4>
 <h4 align="left">📊 RDBS, NoSQL(MongoDB)를 활용한 데이터 구조 설계</h4>
 <h4 align="left">⚛️ React, JavaScript를 활용한 웹 애플리케이션 개발</h4>
@@ -82,10 +79,10 @@
 <h4 align="left">🚀 AWS, EC2를 활용한 클라우드 환경 구축 경험</h4>
 <h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
 
----
+<div align="left">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 How to reach me </h2> 
+</div>
+<h4 align="left">**Email**: rkddmsrud27@gmail.com</h4>
 
-### 📫 How to reach me:
-- **Email**: rkddmsrud27@gmail.com
----
 
 </div>
