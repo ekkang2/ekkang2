@@ -63,7 +63,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 25.01.20 ~ 진행중 | [Shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/shelfy_team_project) | [▶️](https://github.com/ekkang2/shelfy_team_project) |
 | 25.01.20 ~ 진행중 | [Shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/backend_shelfy_team_project) | [▶️](https://github.com/ekkang2/backend_shelfy_team_project) |
-| 24.11.16 ~ 24.12.26 | [Antwork] 그룹웨어 프로젝트 | Java / React / SpringBoot / JPA | 칸반보드 프로젝트 | [🔗](https://github.com/ekkang2/Antwork) | [▶️](https://www.youtube.com/watch?v=BTOL7Ycmewo) |
+| 24.11.16 ~ 24.12.26 | [Antwork] 그룹웨어 프로젝트 | Java / React / SpringBoot / JPA | 프로젝트 | [🔗](https://github.com/ekkang2/Antwork) | [▶️](https://www.youtube.com/watch?v=BTOL7Ycmewo) |
 | 24.10.18 ~ 24.11.15 | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA | 회원 | [🔗](https://github.com/ekkang2/TeamProject-LotteOn4) | [▶️](https://www.youtube.com/watch?v=bdmHMJxx5KU) |
 
 
