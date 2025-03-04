@@ -13,62 +13,64 @@
 
 ---
 
-### 📚 Tech Stack
-#### ⚡ Platforms & Languages ⚡
+  <h2>🛠 사용 기술</h2>
+
+ <div style="text-align: left;">
+    <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+	  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white">
+           <br/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <br/>
+          </div>
+    </div>
+</br>
+<h2>🔧 개발 도구</h2>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
-	<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=java&logoColor=white" alt="JSP">
-	<img src="https://img.shields.io/badge/Thymeleaf-005F99?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React">
-	<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" alt="JSON">
-	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black" alt="Tomcat">
-	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white" alt="Eclipse">
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring">
-	<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" alt="Spring Security">
-	<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MyBatis&logoColor=white" alt="MyBatis">
-	<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" alt="Hibernate">
-	<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white" alt="Maven">
-	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="JPA">
-	
----  
-</div>
-
-### 🔨 Tools I Use
-
-<div>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-177cda?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-111317?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-30bd88?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
 
 ---
 
-### 🌟 GitHub Stats
+<h2>📊 GitHub 통계</h2>
+<div align="center" style="margin: 30px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ekkang2&custom_title=강은경%27s%20Github%20Stats&bg_color=180,000000,&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekkang2&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
+  </div>
+</div>
 
+---
+
+<h2>📅 프로젝트 </h2>
 <div align="center">
   
-![EunKyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekkang2&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekkang2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 25.01.20 ~ 진행중 | [shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/shelfy_team_project) | [▶️](https://github.com/ekkang2/shelfy_team_project) |
+| 25.01.20 ~ 진행중 | [shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/backend_shelfy_team_project) | [▶️](https://github.com/ekkang2/backend_shelfy_team_project) |
+| 24.11.16 ~ 24.12.26 | [Antwork] 그룹웨어 프로젝트 | Java / React / SpringBoot / JPA | 칸반보드 프로젝트 | [🔗](https://github.com/ekkang2/Antwork) | [▶️](https://www.youtube.com/watch?v=BTOL7Ycmewo) |
+| 24.10.18 ~ 24.11.15 | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA | 회원 | [🔗](https://github.com/ekkang2/TeamProject-LotteOn4) | [▶️](https://www.youtube.com/watch?v=BTOL7Ycmewo) |
+
 
 </div>
-
----
-
-### 📅 Projects Overview
-
-#### 💻 Project Timeline
-| **작업 기한**        | **프로젝트 명**                     | **이동**  |
-|-----------------|-------------------------------|-------|
-| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/ekkang2/Antwork) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/ekkang2/TeamProject-LotteOn4) |
-
 ---
 
 ### 🎯 현재 작업 중인 내용:
