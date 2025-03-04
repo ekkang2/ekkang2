@@ -71,12 +71,16 @@
 
 
 </div>
----
 
-### 🎯 현재 작업 중인 내용:
-- 🌱 Spring Boot를 활용한 백엔드 기술 향상
-- 🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축
-- 📱 Flutter 학습중 
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 기술 역량 </h2> 
+
+<h4 align="left">🌱 Spring Boot 기반 RESTFul API 설계</h4>
+<h4 align="left">📊 RDBS, NoSQL(MongoDB)를 활용한 데이터 구조 설계</h4>
+<h4 align="left">⚛️ React, JavaScript를 활용한 웹 애플리케이션 개발</h4>
+<h4 align="left">🖼 HTML과 CSS를 이용한 웹 디자인 경험 </h4>
+<h4 align="left">🚀 AWS, EC2를 활용한 클라우드 환경 구축 경험</h4>
+<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
 
 ---
 
