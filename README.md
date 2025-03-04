@@ -79,8 +79,9 @@
 <h4 align="left">🚀 AWS, EC2를 활용한 클라우드 환경 구축 경험</h4>
 <h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
 
+---
 <div align="left">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 How to reach me </h2> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 문의하기 </h2> 
 </div>
 <h4 align="left">**Email**: rkddmsrud27@gmail.com</h4>
 
