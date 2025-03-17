@@ -61,10 +61,10 @@
   
 | **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 25.03.04 | [Shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/shelfy_team_project) | [▶️](https://github.com/ekkang2/shelfy_team_project) |
-| 25.01.20 ~ 25.03.04 | [Shelfy] 나만의 독서기록 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/backend_shelfy_team_project) | [▶️](https://github.com/ekkang2/backend_shelfy_team_project) |
+| 25.01.20 ~ 25.03.04 | [Shelfy] 나만의 독서기록 앱 프로젝트(Front) | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/shelfy_team_project) | [▶️](https://www.youtube.com/watch?v=Vd8E-pQteQ0) |
+| 25.01.20 ~ 25.03.04 | [Shelfy] 나만의 독서기록 앱 프로젝트(Back) | Java / Flutter / SpringBoot / MyBatis | 도서 검색 | [🔗](https://github.com/ekkang2/backend_shelfy_team_project) | [▶️](https://www.youtube.com/watch?v=Vd8E-pQteQ0) |
 | 24.11.16 ~ 24.12.26 | [Antwork] 그룹웨어 프로젝트 | Java / React / SpringBoot / JPA | 프로젝트 | [🔗](https://github.com/ekkang2/Antwork) | [▶️](https://www.youtube.com/watch?v=BTOL7Ycmewo) |
-| 24.10.18 ~ 24.11.15 | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA | 회원 | [🔗](https://github.com/ekkang2/TeamProject-LotteOn4) | [▶️](https://www.youtube.com/watch?v=bdmHMJxx5KU) |
+| 24.10.18 ~ 24.11.15 | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA | 회원 | [🔗](https://github.com/ekkang2/TeamProject-LotteOn4) | [▶️](https://www.youtube.com/watch?v=Gh7Cyhkwf8A) |
 
 
 </div>
@@ -77,7 +77,7 @@
 <h4 align="left">⚛️ React, JavaScript를 활용한 웹 애플리케이션 개발</h4>
 <h4 align="left">🖼 HTML과 CSS를 이용한 웹 디자인 경험 </h4>
 <h4 align="left">🚀 AWS, EC2를 활용한 클라우드 환경 구축 경험</h4>
-<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
+<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습  </h4>
 
 ---
 <div align="left">
